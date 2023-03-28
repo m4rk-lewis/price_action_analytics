@@ -14,6 +14,7 @@ We can use the cointegration indicator in combination with the other indicators 
   <img src="https://github.com/m4rk-lewis/price_action_analytics/blob/main/pics/STOXX50H4 2.png" width="1000" title="Euro Stoxx 50">
 </p>
 
+A long S&P500 (red line) and short Nasdaq (green line) pairs trade can be constructed (z-score divergence of almost 4 standard deviations) using the price action short signal on Nasdaq to time the entry, exiting at the convergence of the z-scores.
 
 <p align="center">
   <img src="https://github.com/m4rk-lewis/price_action_analytics/blob/main/pics/USTECH4.png" width="1000" title="NASDAQ">
