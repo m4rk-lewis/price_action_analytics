@@ -3,6 +3,6 @@
 Candlestick price action model with cumulative delta trend filter and chart interactive risk management
 
 <p align="center">
-  <img src="https://github.com/m4rk-lewis/price_action_analytics/blob/main/pics/US500H4 2.png" width="1000" title="Price Action Analytics">
+  <img src="https://github.com/m4rk-lewis/price_action_analytics/blob/main/pics/US500H4 3.png" width="1000" title="Price Action Analytics">
 </p>
  
